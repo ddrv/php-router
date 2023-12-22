@@ -1,0 +1,6 @@
+*.md    text eol=lf
+*.json  text eol=lf
+*.php   text eol=lf
+*.dist  text eol=lf
+tests/  export-ignore
+*.dist  export-ignore
